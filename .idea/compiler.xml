@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hash-table" />
         <module name="binary-search" />
+        <module name="string" />
         <module name="linked-list" />
         <module name="double-pointer" />
       </profile>
