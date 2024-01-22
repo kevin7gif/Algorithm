@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hash-table" />
+        <module name="stacks-queues" />
         <module name="binary-search" />
         <module name="string" />
         <module name="linked-list" />
